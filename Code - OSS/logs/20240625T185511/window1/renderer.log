@@ -1,0 +1,8 @@
+2024-06-25 18:55:13.694 [info] Started local extension host with pid 72408.
+2024-06-25 18:55:13.763 [info] Started initializing default profile extensions in extensions installation folder. file:///home/charps/.vscode-oss/extensions
+2024-06-25 18:55:14.319 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/charps/.vscode-oss/extensions
+2024-06-25 18:55:17.045 [info] [perf] Render performance baseline is 41ms
+2024-06-25 18:55:27.227 [info] Started local extension host with pid 72687.
+2024-06-25 18:55:29.941 [info] [perf] Render performance baseline is 38ms
+2024-06-25 18:58:56.131 [info] Started local extension host with pid 75941.
+2024-06-25 18:58:57.142 [error] No registered selector for ID: ms-vscode.npm-command

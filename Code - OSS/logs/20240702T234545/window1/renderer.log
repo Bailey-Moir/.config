@@ -1,0 +1,25 @@
+2024-07-02 23:45:46.975 [info] Started local extension host with pid 83363.
+2024-07-02 23:45:47.011 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2024-07-02 23:45:47.198 [info] Started local extension host with pid 83398.
+2024-07-02 23:45:47.837 [error] [ExtensionListenerError] Extension 'asvetliakov.vscode-neovim' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'command'): Error: [ExtensionListenerError] Extension 'asvetliakov.vscode-neovim' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'command')
+	at n.value (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:20749)
+	at l.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at C.onDidChangeWindowProperty (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:145:21077)
+	at C.$onDidChangeWindowFocus (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:145:20888)
+	at E.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:4762)
+	at E.L (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-02 23:45:49.744 [info] [perf] Render performance baseline is 38ms

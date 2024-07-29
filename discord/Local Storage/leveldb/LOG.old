@@ -1,0 +1,32 @@
+2024/07/29-17:14:56.010 1a00 Reusing MANIFEST /home/charps/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/29-17:14:56.014 1a00 Recovering log #1201
+2024/07/29-17:14:56.014 1a00 Reusing old log /home/charps/.config/discord/Local Storage/leveldb/001201.log 
+2024/07/29-17:19:01.872 1a01 Level-0 table #1205: started
+2024/07/29-17:19:01.909 1a01 Level-0 table #1205: 3192624 bytes OK
+2024/07/29-17:19:01.913 1a01 Delete type=0 #1201
+2024/07/29-17:25:25.670 1a01 Level-0 table #1207: started
+2024/07/29-17:25:25.680 1a01 Level-0 table #1207: 49215 bytes OK
+2024/07/29-17:25:25.684 1a01 Delete type=0 #1204
+2024/07/29-18:17:26.393 1a01 Level-0 table #1209: started
+2024/07/29-18:17:26.402 1a01 Level-0 table #1209: 21033 bytes OK
+2024/07/29-18:17:26.406 1a01 Delete type=0 #1206
+2024/07/29-18:17:26.407 1a01 Compacting 4@0 + 2@1 files
+2024/07/29-18:17:26.423 1a01 Generated table #1210@0: 48 keys, 2395702 bytes
+2024/07/29-18:17:26.454 1a01 Generated table #1211@0: 107 keys, 3175760 bytes
+2024/07/29-18:17:26.455 1a01 Compacted 4@0 + 2@1 files => 5571462 bytes
+2024/07/29-18:17:26.458 1a01 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/07/29-18:17:26.458 1a01 Delete type=2 #1200
+2024/07/29-18:17:26.458 1a01 Delete type=2 #1207
+2024/07/29-18:17:26.459 1a01 Delete type=2 #1202
+2024/07/29-18:17:26.459 1a01 Delete type=2 #1205
+2024/07/29-18:17:26.459 1a01 Delete type=2 #1209
+2024/07/29-18:17:26.459 1a01 Delete type=2 #1199
+2024/07/29-18:37:33.812 1a01 Level-0 table #1213: started
+2024/07/29-18:37:33.822 1a01 Level-0 table #1213: 19671 bytes OK
+2024/07/29-18:37:33.826 1a01 Delete type=0 #1208
+2024/07/29-18:57:40.820 1a00 Level-0 table #1215: started
+2024/07/29-18:57:40.826 1a00 Level-0 table #1215: 19726 bytes OK
+2024/07/29-18:57:40.829 1a00 Delete type=0 #1212
+2024/07/29-19:40:57.103 1a01 Level-0 table #1217: started
+2024/07/29-19:40:57.113 1a01 Level-0 table #1217: 12704 bytes OK
+2024/07/29-19:40:57.116 1a01 Delete type=0 #1214

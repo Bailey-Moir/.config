@@ -1,0 +1,10 @@
+/*@define-color base    rgb(30, 34, 42);*/
+@define-color base    rgb(22, 22, 22);
+/*@define-color base50  rgba(30, 34, 42, 0.5);*/
+@define-color base50  rgba(22, 22, 22, 0.5);
+/*@define-color base90  rgba(30, 34, 42, 0.9);*/
+@define-color base90  rgba(22, 22, 22, 0.9);
+/*@define-color white   rgb(217, 216, 216);*/
+@define-color white   rgb(217, 217, 217);
+/*@define-color white40 rgba(217, 216, 216, 0.4);*/
+@define-color white40 rgba(217, 217, 217, 0.4);

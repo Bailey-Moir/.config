@@ -1,0 +1,19 @@
+2024-07-02 23:45:47.610 [info] Log level: Info
+2024-07-02 23:45:47.610 [info] Validating found git in: "git"
+2024-07-02 23:45:47.610 [info] Using git "2.45.2" from "git"
+2024-07-02 23:45:47.610 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-02 23:45:47.611 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-07-02 23:45:47.628 [info] Open repository: /home/charps/Documents/char.ps
+2024-07-02 23:45:47.673 [info] > git rev-parse --show-toplevel [18ms]
+2024-07-02 23:45:47.674 [info] > git config --get commit.template [28ms]
+2024-07-02 23:45:47.693 [info] > git rev-parse --show-toplevel [11ms]
+2024-07-02 23:45:47.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2024-07-02 23:45:47.713 [info] > git rev-parse --show-toplevel [8ms]
+2024-07-02 23:45:47.752 [info] > git status -z -uall [8ms]
+2024-07-02 23:45:47.782 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2024-07-02 23:45:47.796 [info] > git config --get commit.template [15ms]
+2024-07-02 23:45:47.797 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [6ms]
+2024-07-02 23:45:47.833 [info] > git diff --name-status -z --diff-filter=ADMR 04256f72a5b7a60556fbe3e08d1429588c8bd66b...refs/remotes/origin/main [17ms]
+2024-07-02 23:45:47.836 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-07-02 23:45:47.990 [info] > git status -z -uall [143ms]
+2024-07-02 23:45:48.206 [info] > git check-ignore -v -z --stdin [2ms]

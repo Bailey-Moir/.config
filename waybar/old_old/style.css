@@ -1,0 +1,75 @@
+@import "/home/charps/.config/theme.css";
+
+* {
+    border:        none;
+    border-radius: 0;
+    font-family:   Sans;
+    font-size:     15px;
+    box-shadow:    none;
+    text-shadow:   none;
+    transition-duration: 0s;
+}
+
+window {
+    color:      @white;
+    background: transparent;
+}
+
+window#waybar:not(.empty) {
+    background-color: @base;
+}
+
+#workspaces { /* the 1-5 or whatever */
+    margin: 0 10px; /* x 5px -> 10px */
+}
+
+#workspaces button {
+    padding:    0 5px;
+    color:      @white40;
+}
+
+#workspaces button.visible { /* used */
+    color:      @white;
+}
+
+#workspaces button.focused { /* active */
+    border-top: 3px solid @white;
+    /* border-bottom: 3px solid rgba(217, 216, 216, 0); */ /* this just makes it worse no? */
+    padding-bottom: 3px; /* replacement */
+}
+
+#workspaces button.urgent {
+    color:      rgba(238, 46, 36, 1);
+}
+
+#mode, #cpu, #memory, #backlight, #custom-weather, #custom-mail {
+    margin:     0px 6px 0px 10px;
+    min-width:  25px;
+}
+
+#idle_inhibitor { margin:     0px 6px 0px 10px;
+    min-width: 17px;
+    padding-right: 4px;
+}
+
+#custom-storage, #custom-spotify, #pulseaudio {
+    margin:     0px 0px 0px 10px;
+    min-width:  25px;
+}
+
+#custom-weather {
+  padding-top: 3px;
+}
+
+#clock {
+    margin:     0px 16px 0px 10px;
+    min-width:  140px;
+}
+
+#custom-storage.warning {
+    color:      rgba(255, 210, 4, 1);
+}
+
+#custom-storage.critical {
+    color:      rgba(238, 46, 36, 1);
+}

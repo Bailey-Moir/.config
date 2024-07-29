@@ -1,0 +1,4 @@
+2024-07-02 23:45:37.041 [info] Started local extension host with pid 83054.
+2024-07-02 23:45:37.544 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2024-07-02 23:45:39.807 [info] [perf] Render performance baseline is 39ms
+2024-07-02 23:45:40.695 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.

@@ -1,0 +1,27 @@
+2024-07-02 23:47:21.683 [info] Uninstalling extension from the profile: asvetliakov.vscode-neovim@1.17.2 vscode-userdata:/home/charps/.vscode-oss/extensions/extensions.json
+2024-07-02 23:47:21.713 [info] Marked extension as uninstalled asvetliakov.vscode-neovim-1.17.2-universal
+2024-07-02 23:47:21.780 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/charps/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/charps/.vscode-oss/extensions/extensions.json.vsctmp'
+    at c.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-07-02 23:47:22.061 [info] Successfully uninstalled extension from the profile asvetliakov.vscode-neovim@1.17.2 vscode-userdata:/home/charps/.vscode-oss/extensions/extensions.json
+2024-07-02 23:47:26.053 [info] Getting Manifest... vscodevim.vim
+2024-07-02 23:47:26.287 [info] Installing extension: vscodevim.vim vscode-userdata:/home/charps/.vscode-oss/extensions/extensions.json
+2024-07-02 23:47:32.021 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-07-02 23:47:32.021 [info] Extension signature verification is not done: vscodevim.vim
+2024-07-02 23:47:32.108 [info] Extracted extension to file:///home/charps/.vscode-oss/extensions/vscodevim.vim-1.27.2-universal: vscodevim.vim
+2024-07-02 23:47:32.113 [info] Renamed to /home/charps/.vscode-oss/extensions/vscodevim.vim-1.27.2-universal
+2024-07-02 23:47:32.206 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/charps/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/charps/.vscode-oss/extensions/extensions.json.vsctmp'
+    at c.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-07-02 23:47:32.223 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/charps/.vscode-oss/extensions/extensions.json

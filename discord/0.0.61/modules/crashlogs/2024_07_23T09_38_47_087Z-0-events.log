@@ -1,0 +1,275 @@
+2024-07-23T09:38:47.093Z 0: 
+
+----------------------------------------------
+2024-07-23T09:38:47.101Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-23T09:38:47.108Z 2: ✅ webContents.created web1 ""
+2024-07-23T09:38:47.113Z 3: ✅ window.created win1 "discord"
+2024-07-23T09:38:47.281Z 4: window.close win1
+2024-07-23T09:38:50.056Z 0: 
+
+----------------------------------------------
+2024-07-23T09:38:50.066Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-23T09:38:50.070Z 2: ✅ webContents.created web1 ""
+2024-07-23T09:38:50.072Z 3: ✅ window.created win1 "discord"
+2024-07-23T09:38:50.282Z 4: ✅ webContents.did-finish-load web1
+2024-07-23T09:38:57.612Z 5: ✅ webContents.created web2 ""
+2024-07-23T09:38:57.620Z 6: ✅ window.created win2 "Discord"
+2024-07-23T09:38:59.312Z 7: ✅ webContents.did-finish-load web2
+2024-07-23T09:38:59.412Z 8: window.close win1
+2024-07-23T09:38:59.450Z 9: webContents.destroyed web1
+2024-07-23T09:38:59.453Z 10: window.closed win1
+2024-07-23T09:59:09.893Z 11: window.close win2
+2024-07-23T10:01:54.173Z 12: window.close win2
+2024-07-23T10:04:36.907Z 13: window.close win2
+2024-07-23T10:14:01.446Z 14: window.close win2
+2024-07-23T10:33:07.984Z 15: before-quit
+2024-07-24T06:20:45.844Z 0: 
+
+----------------------------------------------
+2024-07-24T06:20:45.855Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-24T06:20:45.859Z 2: ✅ webContents.created web1 ""
+2024-07-24T06:20:45.861Z 3: ✅ window.created win1 "discord"
+2024-07-24T06:20:46.121Z 4: ✅ webContents.did-finish-load web1
+2024-07-24T06:20:46.658Z 5: ✅ webContents.created web2 ""
+2024-07-24T06:20:46.664Z 6: ✅ window.created win2 "Discord"
+2024-07-24T06:20:48.881Z 7: ✅ webContents.did-finish-load web2
+2024-07-24T06:20:48.980Z 8: window.close win1
+2024-07-24T06:20:49.017Z 9: webContents.destroyed web1
+2024-07-24T06:20:49.020Z 10: window.closed win1
+2024-07-24T06:22:18.912Z 11: window.close win2
+2024-07-24T07:06:00.364Z 0: 
+
+----------------------------------------------
+2024-07-24T07:06:00.383Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-24T07:06:04.690Z 12: window.close win2
+2024-07-24T08:20:07.044Z 0: 
+
+----------------------------------------------
+2024-07-24T08:20:07.055Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-24T08:20:07.059Z 2: ✅ webContents.created web1 ""
+2024-07-24T08:20:07.062Z 3: ✅ window.created win1 "discord"
+2024-07-24T08:20:07.365Z 4: ✅ webContents.did-finish-load web1
+2024-07-24T08:20:08.008Z 5: ✅ webContents.created web2 ""
+2024-07-24T08:20:08.017Z 6: ✅ window.created win2 "Discord"
+2024-07-24T08:20:10.482Z 7: ✅ webContents.did-finish-load web2
+2024-07-24T08:20:10.582Z 8: window.close win1
+2024-07-24T08:20:10.623Z 9: webContents.destroyed web1
+2024-07-24T08:20:10.627Z 10: window.closed win1
+2024-07-24T08:20:16.991Z 11: window.close win2
+2024-07-24T08:22:37.354Z 0: 
+
+----------------------------------------------
+2024-07-24T08:40:16.638Z 12: window.close win2
+2024-07-25T06:42:48.814Z 0: 
+
+----------------------------------------------
+2024-07-25T06:42:48.826Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-25T06:42:48.831Z 2: ✅ webContents.created web1 ""
+2024-07-25T06:42:48.833Z 3: ✅ window.created win1 "discord"
+2024-07-25T06:42:49.132Z 4: ✅ webContents.did-finish-load web1
+2024-07-25T06:42:49.644Z 5: ✅ webContents.created web2 ""
+2024-07-25T06:42:49.652Z 6: ✅ window.created win2 "Discord"
+2024-07-25T06:42:51.942Z 7: ✅ webContents.did-finish-load web2
+2024-07-25T06:42:52.041Z 8: window.close win1
+2024-07-25T06:42:52.061Z 9: webContents.destroyed web1
+2024-07-25T06:42:52.064Z 10: window.closed win1
+2024-07-25T06:43:06.411Z 11: window.close win2
+2024-07-25T06:43:13.018Z 12: window.close win2
+2024-07-25T21:57:10.469Z 0: 
+
+----------------------------------------------
+2024-07-25T21:57:10.481Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-25T21:57:10.487Z 2: ✅ webContents.created web1 ""
+2024-07-25T21:57:10.489Z 3: ✅ window.created win1 "discord"
+2024-07-25T21:57:10.771Z 4: ✅ webContents.did-finish-load web1
+2024-07-25T21:57:11.388Z 5: ✅ webContents.created web2 ""
+2024-07-25T21:57:11.398Z 6: ✅ window.created win2 "Discord"
+2024-07-25T21:57:13.874Z 7: ✅ webContents.did-finish-load web2
+2024-07-25T21:57:13.975Z 8: window.close win1
+2024-07-25T21:57:14.008Z 9: webContents.destroyed web1
+2024-07-25T21:57:14.012Z 10: window.closed win1
+2024-07-25T21:57:28.442Z 11: window.close win2
+2024-07-25T22:16:43.244Z 12: window.close win2
+2024-07-25T22:46:02.176Z 13: window.close win2
+2024-07-25T22:47:41.111Z 14: window.close win2
+2024-07-25T23:12:09.435Z 15: before-quit
+2024-07-26T05:59:43.018Z 0: 
+
+----------------------------------------------
+2024-07-26T05:59:43.031Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-26T05:59:43.037Z 2: ✅ webContents.created web1 ""
+2024-07-26T05:59:43.039Z 3: ✅ window.created win1 "discord"
+2024-07-26T05:59:43.321Z 4: ✅ webContents.did-finish-load web1
+2024-07-26T05:59:43.890Z 5: ✅ webContents.created web2 ""
+2024-07-26T05:59:43.897Z 6: ✅ window.created win2 "Discord"
+2024-07-26T05:59:46.226Z 7: ✅ webContents.did-finish-load web2
+2024-07-26T05:59:46.325Z 8: window.close win1
+2024-07-26T05:59:46.353Z 9: webContents.destroyed web1
+2024-07-26T05:59:46.357Z 10: window.closed win1
+2024-07-26T06:00:01.734Z 11: window.close win2
+2024-07-26T06:05:55.799Z 12: window.close win2
+2024-07-26T06:22:05.658Z 13: ❌ webContents.did-fail-provisional-load web2: -106 ERR_INTERNET_DISCONNECTED
+2024-07-26T06:22:05.661Z 14: ❌ webContents.did-fail-load web2" -106 ERR_INTERNET_DISCONNECTED
+2024-07-26T06:22:05.906Z 15: ✅ webContents.did-finish-load web2
+2024-07-26T06:22:34.797Z 16: window.close win2
+2024-07-26T09:27:32.115Z 0: 
+
+----------------------------------------------
+2024-07-26T09:27:53.438Z 17: before-quit
+2024-07-26T09:27:53.449Z 18: window.close win2
+2024-07-26T09:27:56.104Z 0: 
+
+----------------------------------------------
+2024-07-26T09:27:56.117Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-26T09:27:56.119Z 2: ✅ webContents.created web1 ""
+2024-07-26T09:27:56.121Z 3: ✅ window.created win1 "discord"
+2024-07-26T09:27:56.350Z 4: ✅ webContents.did-finish-load web1
+2024-07-26T09:27:56.905Z 5: ✅ webContents.created web2 ""
+2024-07-26T09:27:56.911Z 6: ✅ window.created win2 "Discord"
+2024-07-26T09:27:59.343Z 7: ✅ webContents.did-finish-load web2
+2024-07-26T09:27:59.443Z 8: window.close win1
+2024-07-26T09:27:59.507Z 9: webContents.destroyed web1
+2024-07-26T09:27:59.510Z 10: window.closed win1
+2024-07-26T09:39:01.469Z 11: window.close win2
+2024-07-26T09:39:18.430Z 12: window.close win2
+2024-07-27T05:21:34.145Z 0: 
+
+----------------------------------------------
+2024-07-27T05:21:34.157Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-27T05:21:34.162Z 2: ✅ webContents.created web1 ""
+2024-07-27T05:21:34.163Z 3: ✅ window.created win1 "discord"
+2024-07-27T05:21:34.427Z 4: ✅ webContents.did-finish-load web1
+2024-07-27T05:21:35.240Z 5: ✅ webContents.created web2 ""
+2024-07-27T05:21:35.246Z 6: ✅ window.created win2 "Discord"
+2024-07-27T05:21:39.800Z 7: ✅ webContents.did-finish-load web2
+2024-07-27T05:21:39.901Z 8: window.close win1
+2024-07-27T05:21:39.919Z 9: webContents.destroyed web1
+2024-07-27T05:21:39.921Z 10: window.closed win1
+2024-07-27T05:21:49.283Z 11: window.close win2
+2024-07-27T05:27:06.496Z 12: window.close win2
+2024-07-27T05:27:29.639Z 13: window.close win2
+2024-07-27T05:29:31.050Z 14: window.close win2
+2024-07-27T05:55:32.082Z 15: window.close win2
+2024-07-27T08:30:41.449Z 16: window.close win2
+2024-07-27T08:32:22.783Z 17: window.close win2
+2024-07-27T08:35:41.827Z 18: window.close win2
+2024-07-27T08:36:48.266Z 19: window.close win2
+2024-07-27T08:37:35.897Z 20: window.close win2
+2024-07-27T08:37:51.976Z 21: window.close win2
+2024-07-27T08:47:34.627Z 22: before-quit
+2024-07-28T05:05:25.285Z 0: 
+
+----------------------------------------------
+2024-07-28T05:05:25.298Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-28T05:05:25.303Z 2: ✅ webContents.created web1 ""
+2024-07-28T05:05:25.304Z 3: ✅ window.created win1 "discord"
+2024-07-28T05:05:25.589Z 4: ✅ webContents.did-finish-load web1
+2024-07-28T05:05:42.076Z 5: ✅ webContents.created web2 ""
+2024-07-28T05:05:42.081Z 6: ✅ window.created win2 "Discord"
+2024-07-28T05:05:44.670Z 7: ✅ webContents.did-finish-load web2
+2024-07-28T05:05:44.769Z 8: window.close win1
+2024-07-28T05:05:44.794Z 9: webContents.destroyed web1
+2024-07-28T05:05:44.798Z 10: window.closed win1
+2024-07-28T05:05:53.499Z 11: window.close win2
+2024-07-28T06:00:37.117Z 0: 
+
+----------------------------------------------
+2024-07-28T06:00:38.525Z 12: window.close win2
+2024-07-28T06:53:09.701Z 0: 
+
+----------------------------------------------
+2024-07-28T06:53:19.599Z 13: window.close win2
+2024-07-28T07:03:06.067Z 14: window.close win2
+2024-07-28T07:04:35.218Z 15: window.close win2
+2024-07-28T07:09:08.796Z 16: window.close win2
+2024-07-28T07:13:48.349Z 17: window.close win2
+2024-07-28T07:49:29.921Z 0: 
+
+----------------------------------------------
+2024-07-28T07:49:29.935Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-28T07:49:29.940Z 2: ✅ webContents.created web1 ""
+2024-07-28T07:49:29.942Z 3: ✅ window.created win1 "discord"
+2024-07-28T07:49:30.196Z 4: ✅ webContents.did-finish-load web1
+2024-07-28T07:49:30.677Z 5: ✅ webContents.created web2 ""
+2024-07-28T07:49:30.686Z 6: ✅ window.created win2 "Discord"
+2024-07-28T07:49:32.518Z 7: ✅ webContents.did-finish-load web2
+2024-07-28T07:49:32.617Z 8: window.close win1
+2024-07-28T07:49:32.643Z 9: webContents.destroyed web1
+2024-07-28T07:49:32.647Z 10: window.closed win1
+2024-07-28T07:55:16.551Z 11: window.close win2
+2024-07-28T09:04:50.057Z 12: before-quit
+2024-07-28T09:05:50.477Z 0: 
+
+----------------------------------------------
+2024-07-28T09:05:50.491Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-28T09:05:50.495Z 2: ✅ webContents.created web1 ""
+2024-07-28T09:05:50.497Z 3: ✅ window.created win1 "discord"
+2024-07-28T09:05:50.770Z 4: ✅ webContents.did-finish-load web1
+2024-07-28T09:05:51.391Z 5: ✅ webContents.created web2 ""
+2024-07-28T09:05:51.397Z 6: ✅ window.created win2 "Discord"
+2024-07-28T09:05:53.189Z 7: ✅ webContents.did-finish-load web2
+2024-07-28T09:05:53.290Z 8: window.close win1
+2024-07-28T09:05:53.319Z 9: webContents.destroyed web1
+2024-07-28T09:05:53.325Z 10: window.closed win1
+2024-07-28T09:08:23.565Z 0: 
+
+----------------------------------------------
+2024-07-28T09:44:47.309Z 0: 
+
+----------------------------------------------
+2024-07-28T09:44:47.321Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-28T09:44:47.323Z 2: ✅ webContents.created web1 ""
+2024-07-28T09:44:47.325Z 3: ✅ window.created win1 "discord"
+2024-07-28T09:44:47.550Z 4: ✅ webContents.did-finish-load web1
+2024-07-28T09:44:48.523Z 5: ✅ webContents.created web2 ""
+2024-07-28T09:44:48.530Z 6: ✅ window.created win2 "Discord"
+2024-07-28T09:44:50.135Z 7: ✅ webContents.did-finish-load web2
+2024-07-28T09:44:50.236Z 8: window.close win1
+2024-07-28T09:44:50.266Z 9: webContents.destroyed web1
+2024-07-28T09:44:50.268Z 10: window.closed win1
+2024-07-28T09:59:28.916Z 11: window.close win2
+2024-07-28T10:48:05.591Z 12: window.close win2
+2024-07-28T10:52:30.683Z 13: window.close win2
+2024-07-28T10:53:21.579Z 14: window.close win2
+2024-07-28T10:56:13.753Z 15: window.close win2
+2024-07-28T11:00:05.400Z 16: window.close win2
+2024-07-28T11:02:22.998Z 17: window.close win2
+2024-07-28T11:30:39.460Z 18: window.close win2
+2024-07-29T05:14:56.119Z 0: 
+
+----------------------------------------------
+2024-07-29T05:14:56.132Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-29T05:14:56.137Z 2: ✅ webContents.created web1 ""
+2024-07-29T05:14:56.139Z 3: ✅ window.created win1 "discord"
+2024-07-29T05:14:56.403Z 4: ✅ webContents.did-finish-load web1
+2024-07-29T05:14:57.004Z 5: ✅ webContents.created web2 ""
+2024-07-29T05:14:57.009Z 6: ✅ window.created win2 "Discord"
+2024-07-29T05:14:58.664Z 7: ✅ webContents.did-finish-load web2
+2024-07-29T05:14:58.764Z 8: window.close win1
+2024-07-29T05:14:58.811Z 9: webContents.destroyed web1
+2024-07-29T05:14:58.813Z 10: window.closed win1
+2024-07-29T05:33:27.065Z 11: window.close win2
+2024-07-29T05:51:37.171Z 12: window.close win2
+2024-07-29T06:22:35.347Z 13: window.close win2
+2024-07-29T06:24:29.940Z 14: window.close win2
+2024-07-29T07:43:23.342Z 15: window.close win2
+2024-07-29T08:12:48.023Z 16: window.close win2
+2024-07-29T08:13:28.055Z 17: window.close win2
+2024-07-29T08:43:09.620Z 0: 
+
+----------------------------------------------
+2024-07-29T08:43:09.635Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/charps/.config/discord/0.0.61/modules
+2024-07-29T08:43:09.640Z 2: ✅ webContents.created web1 ""
+2024-07-29T08:43:09.642Z 3: ✅ window.created win1 "discord"
+2024-07-29T08:43:09.848Z 4: ✅ webContents.did-finish-load web1
+2024-07-29T08:43:10.415Z 5: ✅ webContents.created web2 ""
+2024-07-29T08:43:10.423Z 6: ✅ window.created win2 "Discord"
+2024-07-29T08:43:12.022Z 7: ✅ webContents.did-finish-load web2
+2024-07-29T08:43:12.122Z 8: window.close win1
+2024-07-29T08:43:12.162Z 9: webContents.destroyed web1
+2024-07-29T08:43:12.165Z 10: window.closed win1
+2024-07-29T09:27:28.836Z 11: window.close win2
+2024-07-29T09:37:56.960Z 12: window.close win2
+2024-07-29T09:39:00.647Z 13: window.close win2
+2024-07-29T10:37:31.997Z 14: window.close win2
+2024-07-29T10:49:10.696Z 15: before-quit

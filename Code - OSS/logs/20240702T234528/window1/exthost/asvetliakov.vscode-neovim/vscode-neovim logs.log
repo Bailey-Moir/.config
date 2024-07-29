@@ -1,0 +1,16 @@
+2024-07-02 23:45:32.036 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/charps/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.17.2-universal/runtime/vscode-neovim.vim
+2024-07-02 23:45:32.144 [info] MainController: Nvim info: {
+  logFile: '/home/charps/.local/state/nvim/log',
+  configDir: '/home/charps/.config/nvim',
+  configFile: '/home/charps/.config/nvim/init.lua',
+  nvimVersion: {
+    minor: 10,
+    patch: 0,
+    api_prerelease: null,
+    prerelease: true,
+    api_level: 12,
+    build: 'dirty',
+    api_compatible: 0,
+    major: 0
+  }
+}

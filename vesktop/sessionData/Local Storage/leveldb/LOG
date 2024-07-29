@@ -1,0 +1,6 @@
+2024/07/16-16:07:21.386 3b9 Reusing MANIFEST /home/charps/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/07/16-16:07:21.401 3b9 Recovering log #19
+2024/07/16-16:07:21.402 3b9 Reusing old log /home/charps/.config/vesktop/sessionData/Local Storage/leveldb/000019.log 
+2024/07/16-17:35:52.030 3ba Level-0 table #23: started
+2024/07/16-17:35:52.040 3ba Level-0 table #23: 63332 bytes OK
+2024/07/16-17:35:52.044 3ba Delete type=0 #19

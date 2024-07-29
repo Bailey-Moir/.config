@@ -1,0 +1,7 @@
+2024/05/26-17:51:14.145 4 Reusing MANIFEST /home/charps/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/05/26-17:51:14.151 4 Recovering log #3
+2024/05/26-17:51:14.151 4 Level-0 table #3: started
+2024/05/26-17:51:14.153 4 Level-0 table #3: 41615 bytes OK
+2024/05/26-17:51:14.153 4 Recovering log #4
+2024/05/26-17:51:14.154 4 Reusing old log /home/charps/.config/google-chrome/Default/Local Storage/leveldb/000004.log 
+2024/05/26-17:51:14.157 4 Delete type=0 #3

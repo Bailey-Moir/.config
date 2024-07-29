@@ -1,0 +1,27 @@
+# indicator
+# no-unlock-indicator
+# daemonize
+# datestr=%A
+image=$HOME/.config/sway/wallpaper/rosepine.jpg
+scaling=fill
+font=LiberationMono
+font-size=20
+
+# Ring
+indicator-radius=115
+indicator-thickness=10
+#line-uses-ring
+line-color=#3b4252
+text-color=#d8dee9
+#inside-color=#2e344098
+inside-color=#2e344000
+inside-ver-color=#5e81ac
+
+line-ver-color=#5e81ac
+ring-ver-color=#5e81ac98
+
+ring-color=#4c566a
+key-hl-color=#5e81ac
+separator-color=#4c566a
+layout-text-color=#eceff4
+line-wrong-color=#d08770

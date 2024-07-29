@@ -1,0 +1,48 @@
+2024-07-02 23:45:56.229 [info] Log level: Info
+2024-07-02 23:45:56.229 [info] Validating found git in: "git"
+2024-07-02 23:45:56.229 [info] Using git "2.45.2" from "git"
+2024-07-02 23:45:56.229 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-02 23:45:56.229 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2024-07-02 23:45:56.229 [info] Open repository: /home/charps/Documents/char.ps
+2024-07-02 23:45:56.247 [info] > git config --get commit.template [9ms]
+2024-07-02 23:45:56.252 [info] > git rev-parse --show-toplevel [11ms]
+2024-07-02 23:45:56.273 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-07-02 23:45:56.285 [info] > git rev-parse --show-toplevel [13ms]
+2024-07-02 23:45:56.296 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-02 23:45:56.318 [info] > git status -z -uall [7ms]
+2024-07-02 23:45:56.340 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2024-07-02 23:45:56.350 [info] > git config --get commit.template [11ms]
+2024-07-02 23:45:56.354 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [5ms]
+2024-07-02 23:45:56.374 [info] > git diff --name-status -z --diff-filter=ADMR 04256f72a5b7a60556fbe3e08d1429588c8bd66b...refs/remotes/origin/main [10ms]
+2024-07-02 23:45:56.379 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-07-02 23:45:56.396 [info] > git status -z -uall [5ms]
+2024-07-02 23:45:56.733 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-02 23:46:00.644 [info] > git show --textconv :.eslintrc.json [9ms]
+2024-07-02 23:46:00.645 [info] > git ls-files --stage -- /home/charps/Documents/char.ps/.eslintrc.json [2ms]
+2024-07-02 23:46:00.654 [info] > git cat-file -s bffb357a7122523ec94045523758c4b825b448ef [2ms]
+2024-07-02 23:46:01.400 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-02 23:46:04.495 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-02 23:46:06.223 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-02 23:49:22.563 [info] Log level: Info
+2024-07-02 23:49:22.563 [info] Validating found git in: "git"
+2024-07-02 23:49:22.563 [info] Using git "2.45.2" from "git"
+2024-07-02 23:49:22.563 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-02 23:49:22.572 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-07-02 23:49:22.586 [info] Open repository: /home/charps/Documents/char.ps
+2024-07-02 23:49:22.604 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-02 23:49:22.605 [info] > git config --get commit.template [10ms]
+2024-07-02 23:49:22.624 [info] > git rev-parse --show-toplevel [10ms]
+2024-07-02 23:49:22.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-07-02 23:49:22.633 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-02 23:49:22.644 [info] > git status -z -uall [3ms]
+2024-07-02 23:49:22.657 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-07-02 23:49:22.667 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [2ms]
+2024-07-02 23:49:22.676 [info] > git diff --name-status -z --diff-filter=ADMR 04256f72a5b7a60556fbe3e08d1429588c8bd66b...refs/remotes/origin/main [2ms]
+2024-07-02 23:49:22.795 [info] > git config --get commit.template [4ms]
+2024-07-02 23:49:22.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-07-02 23:49:22.824 [info] > git status -z -uall [2ms]
+2024-07-02 23:49:29.029 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-02 23:49:55.825 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-02 23:50:03.314 [info] > git show --textconv :app/page.tsx [2ms]
+2024-07-02 23:50:03.335 [info] > git ls-files --stage -- /home/charps/Documents/char.ps/app/page.tsx [2ms]
+2024-07-02 23:50:03.347 [info] > git cat-file -s 4740bda7dd4ee8d7847f29aae8e72032068d81ee [2ms]

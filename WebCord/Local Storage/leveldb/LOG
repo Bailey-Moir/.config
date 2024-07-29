@@ -1,0 +1,5 @@
+2024/05/13-05:22:01.024 8f48 Creating DB /home/charps/.config/WebCord/Local Storage/leveldb since it was missing.
+2024/05/13-05:22:01.044 8f48 Reusing MANIFEST /home/charps/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2024/05/13-05:26:03.150 8f49 Level-0 table #5: started
+2024/05/13-05:26:03.159 8f49 Level-0 table #5: 28522 bytes OK
+2024/05/13-05:26:03.163 8f49 Delete type=0 #3

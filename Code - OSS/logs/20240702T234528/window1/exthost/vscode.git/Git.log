@@ -1,0 +1,23 @@
+2024-07-02 23:45:32.209 [info] Log level: Info
+2024-07-02 23:45:32.209 [info] Validating found git in: "git"
+2024-07-02 23:45:32.209 [info] Using git "2.45.2" from "git"
+2024-07-02 23:45:32.209 [info] > git rev-parse --show-toplevel [22ms]
+2024-07-02 23:45:32.209 [info] > git rev-parse --git-dir --git-common-dir [37ms]
+2024-07-02 23:45:32.209 [info] Open repository: /home/charps/Documents/story_bug/alt
+2024-07-02 23:45:32.211 [info] > git rev-parse --show-toplevel [35ms]
+2024-07-02 23:45:32.213 [info] > git config --get commit.template [44ms]
+2024-07-02 23:45:32.259 [info] > git rev-parse --show-toplevel [23ms]
+2024-07-02 23:45:32.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feature/zendesk-autohold refs/remotes/feature/zendesk-autohold [27ms]
+2024-07-02 23:45:32.289 [info] > git rev-parse --show-toplevel [11ms]
+2024-07-02 23:45:32.306 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-02 23:45:32.343 [info] > git status -z -uall [17ms]
+2024-07-02 23:45:32.343 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-02 23:45:32.391 [info] > git merge-base refs/heads/feature/zendesk-autohold refs/remotes/origin/feature/zendesk-autohold [36ms]
+2024-07-02 23:45:32.406 [info] > git config --get commit.template [15ms]
+2024-07-02 23:45:32.411 [info] > git rev-parse --show-toplevel [29ms]
+2024-07-02 23:45:32.434 [info] > git rev-list --count --left-right refs/heads/feature/zendesk-autohold...refs/remotes/origin/feature/zendesk-autohold [30ms]
+2024-07-02 23:45:32.468 [info] > git rev-parse --show-toplevel [35ms]
+2024-07-02 23:45:32.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feature/zendesk-autohold refs/remotes/feature/zendesk-autohold [3ms]
+2024-07-02 23:45:32.471 [info] > git diff --name-status -z --diff-filter=ADMR f49a654c98fedc10ba2fa676dc65b186d146e21c...refs/remotes/origin/feature/zendesk-autohold [23ms]
+2024-07-02 23:45:32.500 [info] > git status -z -uall [6ms]
+2024-07-02 23:45:32.677 [info] > git check-ignore -v -z --stdin [4ms]
